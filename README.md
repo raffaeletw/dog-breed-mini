@@ -1,3 +1,4 @@
+![](images/Screenshot (4).png)
 # 🐶 Dog Breed Mini — 3-Class CNN (Streamlit + Keras)
 
 A small end-to-end project:
