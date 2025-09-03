@@ -5,7 +5,7 @@ A small end-to-end project:
   - `scottish_deerhound`
   - `maltese_dog`
   - `bernese_mountain_dog`
-  - 
+    
 ## ✨ Highlights
 - Colab-friendly notebook to download data with Kaggle API.
 - Clean Streamlit UI for single-image inference.
@@ -22,11 +22,13 @@ Option B: train it yourself (see notebook below).
 ### 3) Run the app
 streamlit run app/main_app.py
 
-### 🖼️ App — Initial Screen (before upload)
+### 🖼️ Initial Screen (before upload)
 ![](images/Screenshot%20(2).png)
 
-### 🖼️ App — Uploading an Image
+
+### 🖼️ Uploading an Image
 ![](images/Screenshot%20(3).png)
 
-### 🖼️ App — Prediction Result
+
+### 🖼️ Prediction Result
 ![](images/Screenshot%20(4).png)
